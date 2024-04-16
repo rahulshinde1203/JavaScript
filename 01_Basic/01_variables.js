@@ -8,5 +8,6 @@ console.log(accountId);
 
 /*
 Prefer not use var keyword
-beacuse of scope
+beacuse of issue in block scope and functional scope
+use only let and const for declaring variables
 */
