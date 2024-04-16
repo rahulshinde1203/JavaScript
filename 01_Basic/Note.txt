@@ -45,3 +45,13 @@ console.log("1"+2); // output 12
 console.log(1+"2"); // output 12
 console.log("1"+2+2); // output 122
 console.log(1+2+"2"); // output 32
+
+
+//*******************DataTypes************************
+
+
+// 1 Primitive
+// 7 types : String, Number, Boolean, null, undefined, symbol, BigInt
+
+//2 Non Premitive or Reference 
+//Array, Object, Functions
