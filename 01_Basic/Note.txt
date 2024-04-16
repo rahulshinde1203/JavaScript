@@ -27,3 +27,21 @@ use only let and const for declaring variables
 //"33abc" => NaN (not a number) number with alphabets not convertable into number datatype its type show "NaN"
 // true => 1
 // false => 0
+
+//**************** Operations*******************
+ let value = 3
+ let negvalue = -value
+ console.table([value,negvalue,])
+
+ // operation 
+ //Addtion (a+b)
+ //Substraction (a-b)
+ //Multiplication (a*b)
+ //Power (a**b)
+ //Division (a/b)
+ //remender (a%b)
+
+console.log("1"+2); // output 12
+console.log(1+"2"); // output 12
+console.log("1"+2+2); // output 122
+console.log(1+2+"2"); // output 32
