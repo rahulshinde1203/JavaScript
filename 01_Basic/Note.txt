@@ -22,3 +22,8 @@ use only let and const for declaring variables
 
 //Object
 
+*03_converion of DATATYPES
+//"33" => 33 easily convert
+//"33abc" => NaN (not a number) number with alphabets not convertable into number datatype its type show "NaN"
+// true => 1
+// false => 0
