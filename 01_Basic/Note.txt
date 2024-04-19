@@ -59,3 +59,8 @@ console.log(1+2+"2"); // output 32
 **********************Stack And Heap Memory********************************
 //Stack Memory use in Primitive Data Types
 //Heap Memory Use in Non Primitive
+
+
+******************************************String****************************************
+//string is a group of alphanumeric, aplhabhetic , Numric value and it denoted between '  ' (single qoutes) and "  "(double qoutes)
+
