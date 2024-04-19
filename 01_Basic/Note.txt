@@ -54,4 +54,8 @@ console.log(1+2+"2"); // output 32
 // 7 types : String, Number, Boolean, null, undefined, symbol, BigInt
 
 //2 Non Premitive or Reference 
-//Array, Object, Functions
+//Array, Object, Functions 
+
+**********************Stack And Heap Memory********************************
+//Stack Memory use in Primitive Data Types
+//Heap Memory Use in Non Primitive
