@@ -44,7 +44,7 @@ console.log("A", myArr)
 const myn1 = myArr.slice(1,3)
 console.log(myn1);
 
-//splice-Removes elements from an array and, if necessary, inserts new elements in their place, returning the deleted elements. doesn't change original array
+//splice-Removes elements from an array and, if necessary, inserts new elements in their place, returning the deleted elements.  change original array
 console.log("A", myArr)
 const myn2 = myArr.splice(1,3)
 console.log(myn1);
